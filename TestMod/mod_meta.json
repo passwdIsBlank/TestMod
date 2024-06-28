@@ -1,0 +1,8 @@
+{
+	"Name": "Test Mod",
+	"ModGUID": "passwdIsBlank.TestMod",
+	"Version": "0.0.1",
+	"ModAssembly": "TestMod.dll",
+	"MinWinchVersion": "0.3.1",
+	"Entrypoint": "TestMod.Loader/Initialize"
+}

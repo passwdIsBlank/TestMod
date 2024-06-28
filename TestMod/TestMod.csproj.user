@@ -1,0 +1,6 @@
+<Project>
+	<PropertyGroup>
+		<DredgePath>C:\Games\Dredge</DredgePath>
+		<OutputPath>$(DredgePath)\Mods\passwdIsBlank.TestMod</OutputPath>
+	</PropertyGroup>
+</Project>
